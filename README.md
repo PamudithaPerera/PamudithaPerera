@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PamudithaPerera/PamudithaPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pamuditha Rasanjana</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
