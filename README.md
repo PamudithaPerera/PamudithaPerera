@@ -8,4 +8,4 @@ Pamudita Rasanjana Perera is a Grade 11 student at Hermann Gmeiner School, Piliy
 
 - Learning in public on <a href="[https://www.twitch.tv/blacktechdiva](https://matesoft.lk)">Matesoft Official</a> or <a href="https://link.matesoft.lk">matesoft link</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://link.matesoft.lk"> Codepen</a> 🏓
-- Sharing updates on <a href="[https://www.linkedin.com/in/monicampowell/](https://lk.linkedin.com/in/pamuditha-rasanjana-perera-026407220?trk=people-guest_people_search-card)">LinkedIn</a> 💼
+- Sharing updates on <a href="https://lk.linkedin.com/in/pamuditha-rasanjana-perera-026407220?trk=people-guest_people_search-card">LinkedIn</a> 💼
